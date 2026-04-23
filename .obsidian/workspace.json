@@ -1,24 +1,34 @@
 {
   "main": {
-    "id": "664d90debdc077cc",
+    "id": "63c8ff184e75f22a",
     "type": "split",
     "children": [
       {
-        "id": "a500e3ee75ea3d6d",
+        "id": "515162adcde3f0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "a44c33eb2595cb2f",
+            "id": "9263953e144de13d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - The Five Lessons MOC.md",
+                "file": "Five People You Meet in Heaven/07 - Exam Oral Prep.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - The Five Lessons MOC"
+              "title": "07 - Exam Oral Prep"
+            }
+          },
+          {
+            "id": "0123be4ab4e74ffc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5af88be7d7dd2dee",
+    "id": "4b23cd31ccd67995",
     "type": "split",
     "children": [
       {
-        "id": "f7bce5c79e1804b3",
+        "id": "be18d0d66feaaa19",
         "type": "tabs",
         "children": [
           {
-            "id": "69d59c93d8a1683c",
+            "id": "da4614346e778ec3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +58,7 @@
             }
           },
           {
-            "id": "1b6a57f9a9596770",
+            "id": "cd55f454c93b862f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +75,7 @@
             }
           },
           {
-            "id": "6ccd3bf51aa40a11",
+            "id": "d51938994d836c4f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "579591b219802ebc",
+    "id": "2887b41f9aa5d482",
     "type": "split",
     "children": [
       {
-        "id": "4d97e752e1d07593",
+        "id": "79f9cb17869779dd",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc04723c5225860",
+            "id": "93aa7f3058884bb6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - The Five Lessons MOC.md",
+                "file": "Five People You Meet in Heaven/07 - Exam Oral Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 - The Five Lessons MOC"
+              "title": "Backlinks for 07 - Exam Oral Prep"
             }
           },
           {
-            "id": "6701cdb51755f7f0",
+            "id": "d5e3291e07e57e32",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - The Five Lessons MOC.md",
+                "file": "Five People You Meet in Heaven/Lesson 1 - Connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 - The Five Lessons MOC"
+              "title": "Outgoing links from Lesson 1 - Connection"
             }
           },
           {
-            "id": "54724f150a83aacd",
+            "id": "af4111cfa92ec301",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +147,7 @@
             }
           },
           {
-            "id": "6ee30f1c6083e728",
+            "id": "a7ca748bacd0ef35",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,26 +161,36 @@
             }
           },
           {
-            "id": "2b94c03af9ce90dd",
+            "id": "edfc00006b22c503",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - The Five Lessons MOC.md",
+                "file": "Five People You Meet in Heaven/07 - Exam Oral Prep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - The Five Lessons MOC"
+              "title": "Outline of 07 - Exam Oral Prep"
+            }
+          },
+          {
+            "id": "945fe0bd8b670c50",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,19 +200,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a44c33eb2595cb2f",
+  "active": "9263953e144de13d",
   "lastOpenFiles": [
-    "01 - Book Overview.md",
-    "Eddie.md",
-    "Mickey Shea.md",
-    "Mitch Albom.md",
-    "02 - Characters MOC.md",
-    "Eddie's Mother.md",
-    "00 - Home.md",
-    "Tala.md",
-    "07 - Exam Oral Prep.md"
+    "Five People You Meet in Heaven/06 - Study Guide.md",
+    "Five People You Meet in Heaven/03 - The Five Lessons MOC.md",
+    "Five People You Meet in Heaven/05 - Key Quotes.md",
+    "Five People You Meet in Heaven/Lesson 1 - Connection.md",
+    "Five People You Meet in Heaven/02 - Characters MOC.md",
+    "Five People You Meet in Heaven/01 - Book Overview.md",
+    "Five People You Meet in Heaven/The Story Structure.md",
+    "Five People You Meet in Heaven/00 - Home.md"
   ]
 }
